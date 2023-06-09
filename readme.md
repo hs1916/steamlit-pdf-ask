@@ -60,3 +60,10 @@ This repository is intended for educational purposes and does not accept further
 ## License
 -------
 The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+pip3 uninstall altair
+
+pip3 install altair==4.0
+
+pip3 install tiktoken
