@@ -66,4 +66,5 @@ pip3 uninstall altair
 
 pip3 install altair==4.0
 
-pip3 install tiktoken
+pip3 install tiktoken# steamlit-pdf
+# steamlit-pdf-ask
